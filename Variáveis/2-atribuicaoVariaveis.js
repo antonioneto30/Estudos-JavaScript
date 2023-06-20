@@ -22,4 +22,4 @@ contador = contador + 1
 let numero; //declarando variável
 numero = 5; //atribuindo valor
 numero = numero+1;
-console.log(numero)
+console.log(numero);
